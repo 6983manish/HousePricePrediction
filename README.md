@@ -28,6 +28,7 @@ Highlights of the final model:
 
 
 ## Technologies Used
+- Python 3
 - numpy
 - pandas
 - matplotlib
